@@ -1,4 +1,4 @@
-const urlFetch = 'http://whatyearisit-backend-gilt.vercel.app'
+const urlFetch = 'https://whatyearisit-backend-gilt.vercel.app'
 
 
 
