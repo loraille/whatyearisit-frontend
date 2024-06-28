@@ -1,5 +1,6 @@
-const urlFetch = 'http://whatyearisit-backend-ruby-phi.vercel.app'
-//whatyearisit-backend-ruby-phi.vercel.app
+const urlFetch = 'http://whatyearisit-backend-gilt.vercel.app'
+
+
 
 fetch(`${urlFetch}/date`)
     .then(response => response.json())
